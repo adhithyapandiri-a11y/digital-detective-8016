@@ -15,8 +15,8 @@ Each of these mission is a guided learning task , documented and commited.
 | Mission | Topic | Folder Link | Status |
 | :--- | :--- | :--- | :--- | 
 | **Mission 0** | Setup | [mission-00-setup](./mission-00-setup/README.md/) | Completed |
-| **Mission 1** | Computer Basics | [mission-01-computer-basics](./mission-01-computer-basics/README.md/) | Pending |
-| **Mission 2** | Terminal | [mission-02-terminal](./mission-02-terminal/README.md/) | Pending |
+| **Mission 1** | Computer Basics | [mission-01-computer-basics](./mission-01-computer-basics/README.md/) | Completed |
+| **Mission 2** | Terminal | [mission-02-terminal](./mission-02-terminal/README.md/) | Completed |
 | **Mission 3** | Operating Systems | [mission-03-operating-system](./mission-03-operating-system/README.md/) | Pending |
 | **Mission 4** | Programs | [mission-04-programs](./mission-04-programs/README.md/) | Pending |
 | **Mission 5** | Numbers Data | [mission-05-numbers-data](./mission-05-numbers-data/README.md/) | Pending |
