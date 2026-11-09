@@ -2,7 +2,7 @@
 
 ## 1. Task/Objective
 
-## 2. Work Comleted
+## 2. Work Completed
 
 ## 3. Commands/Tools Used
 

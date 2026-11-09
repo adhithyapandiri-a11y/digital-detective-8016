@@ -7,7 +7,7 @@
 - Verify the versions of installed tools  
 - Push the initial version of README.md to Github
 
-## 2. Work Comleted
+## 2. Work Completed
 - Checked the versions of tools requied like git and python
 - Created the folder structure locally and created the github workspace for this project 
 - Created all required mission folders with README.md file in each mission folder
